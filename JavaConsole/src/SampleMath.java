@@ -54,7 +54,7 @@ public class SampleMath {
 	}
 	public static int mod(int num1, int num2)
 	{
-		System.out.println("The modulo of two numbers is :");
+		System.out.println("The mod of two numbers is :");
 		
 		return num1%num2;
 	}
