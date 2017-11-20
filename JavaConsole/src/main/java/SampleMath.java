@@ -32,7 +32,7 @@ public class SampleMath {
 			
 		System.out.println(add(n1,n2));
 		System.out.println(diff(n1,n2));
-		System.out.println(product(n1,n2));
+		System.out.println(prod(n1,n2));
 		
 	}
 	public static int add(int num1, int num2)
@@ -48,7 +48,7 @@ public class SampleMath {
 		return num1-num2;
 	}
 	
-	public static int product(int num1, int num2)
+	public static int prod(int num1, int num2)
 	{
 		System.out.println("The prod of two numbers is :");
 		
