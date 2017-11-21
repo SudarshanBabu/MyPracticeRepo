@@ -64,7 +64,7 @@ public class App
 	{
 		System.out.println("The mod of two numbers is :");
 		
-		return num1%numm2;
+		return num1%num2;
 	}
 
 
