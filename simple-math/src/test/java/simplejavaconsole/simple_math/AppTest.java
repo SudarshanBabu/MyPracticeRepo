@@ -49,7 +49,8 @@ public class AppTest
 		System.out.println("Expected result is 3");
 		int result = App.diff(x,y);
 		System.out.println("Actual result is : " + result);
-	    assertEquals(3, result);
+	    assertEquals(3, result);  
+	}
 
 	public final void testProd() {
 		int x  = 4 ; int y = 2;
